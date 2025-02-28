@@ -41,12 +41,12 @@ table th {
     }
 
     /* Behave like a table header */
-/*     table td::before {
+    table td::before {
         content: attr(data-label);
         float: left;
         font-weight: bold;
         text-transform: uppercase;
-    } */
+    }
 
 /*     table td:last-child {
         border-bottom: 0;
